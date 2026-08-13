@@ -50,7 +50,8 @@ This project analyzes Superstore retail sales data (2014–2017) using Microsoft
 ---
 
 ## Files Included
-- (Retail-Sales-Performance-Dashboard.xlsx)
-- `Retail-Sales-Performance-Dashboard.png`
-- `Retail-Sales-Performance-Insights.png`
+- [Retail-Sales-Performance-Dashboard.xlsx](Retail-Sales-Performance-Dashboard.xlsx)
+- [Retail-Sales-Performance-Dashboard.png](Retail-Sales-Performance-Dashboard.png)
+- [Retail-Sales-Performance-Insights.png](Retail-Sales-Performance-Insights.png)
+  
 
